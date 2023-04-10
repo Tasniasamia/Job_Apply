@@ -3,7 +3,7 @@
     padding:20px;
    
 }
-.contaner2{
+.contaner3{
     display:grid;
     grid-template-columns: auto auto;
     gap: 10px;

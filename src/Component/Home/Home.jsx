@@ -46,7 +46,7 @@ console.log(load);
          <div style={{paddingTop:"200px"}}>
          <h3 className='text-center mt-5 '>Featured Jobs</h3>
          <p className='text-center pb-2'>Explore thousands of job opportunities with all the information you need. Its your future</p>
-         <div className='contaner2'> 
+         <div className='contaner3'> 
            {
             load.slice(0, values? 6 : 4).map(index=><Feature_job propsdata={index} key={index.id}></Feature_job>)
            
@@ -54,7 +54,7 @@ console.log(load);
 
          </div>
          </div>
-         <div className='text-center'onClick={()=>setValue(!values)}>
+         <div className='text-center my-5'onClick={()=>setValue(!values)}>
             {
                 values?"":<button className='btn-success'>Show All</button>
             }
