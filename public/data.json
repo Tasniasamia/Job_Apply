@@ -1,0 +1,87 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead01",
+        "catagory":[{"logo":"../src/assets/Icons/accounts 1.png","title":"Acounts & Finance","chance":"300 Jobs Available"}],
+        "img":"../src/assets/All Images/google-1-1 1.png",
+        "profession": "Technical Database Engineer",
+        "company_name": "Google LLC",
+        "jobtype": "Remote",
+        "jobtime": "Fulltime",
+        "Location": "Dhaka,Bangladesh",
+        "salary": "100k-150k",
+        "description": "A database is a collection of structured information stored within a computer. When a database designer organises this information according to a database model, this process becomes database designing. Learning more about database designing and this position can help you find out if this is the right career path for you. In this article, we discuss what is a database designer, explore their important responsibilities and discover what is their average salary.",
+        "Responsibility": " The database designer is responsible for defining the detailed database design, including tables, indexes, views, constraints, triggers, stored procedures, and other database-specific constructs needed to store, retrieve, and delete persistent objects. This information is maintained in the Artifact: Data Model.",
+        "requirements": "Bachelor degree to complete any reputational university.",
+        "experience": "2-3 Years in this field.",
+        "phone": " 01750-00 00 00",
+        "email": "info@gmail.com",
+        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead02",
+        "catagory":[{"logo":"../src/assets/Icons/business 1.png","title":"Creative Design","chance":"100+ Jobs Available"}],
+
+        "img":"../src/assets/All Images/netflix-4 1.png",
+
+        "profession": "Senior Product Designer",
+        "company_name": "Netflix",
+        "jobtype": "Onsite",
+        "jobtime": "Fulltime",
+        "Location": "Dhaka,Bangladesh",
+        "salary": "100k-150k",
+        "description": " A Product designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+       
+        "Responsibility": "Product designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "requirements": "Bachelor degree to complete any reputational university.",
+        "experience": "2-3 Years in this field.",
+        "phone": " 01750-01 01 00",
+        "email": "info2@gmail.com",
+        "address": "Mirpur 11,  Dhaka, Bangladesh"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead03",
+        "catagory":[{"logo":"../src/assets/Icons/social-media 1.png","title":"Engineering Job","chance":"100+ Jobs Available"}],
+
+        "img":"../src/assets/All Images/tesla-9 1.png",
+
+        "profession": "Software Engineer",
+        "company_name": "Tesla",
+        "jobtype": "Remote",
+        "jobtime": "Fulltime",
+        "Location": "Dhaka,Bangladesh",
+        "salary": "100k-150k",
+        
+        "description": " Software engineering is an engineering-based approach to software development.[1][2][3] A software engineer is a person who applies the engineering design process to design, develop, maintain, test, and evaluate computer software. The term programmer is sometimes used as a synonym, but may also refer more to implementation rather than design and can also lack connotations of engineering education or skills.",
+        
+        "Responsibility": "Software engineers create web applications, mobile apps, robots, operating systems, and network systems. They develop software solutions that meet their companies' needs and expectations.",
+        "requirements": "Bachelor degree to complete any reputational university.",
+        "experience": "5 Years in this field.",
+        "phone": " 01750-01 01 00",
+        "email": "info3@gmail.com",
+        "address": "Mirpur 12,  Dhaka, Bangladesh"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead04",
+        "catagory":[{"logo":"../src/assets/Icons/chip 1.png","title":"Engineering Job","chance":"200+ Jobs Available"}],
+
+        "img":"../src/assets/All Images/google-1-1 1.png",
+
+        "profession": "Technical Database Engineer",
+        "company_name": "Google LLC",
+        "jobtype": "Remote",
+        "jobtime": "Fulltime",
+        "Location": "Dhaka,Bangladesh",
+        "salary": "100k-150k",
+        "description": "A database is a collection of structured information stored within a computer. When a database designer organises this information according to a database model, this process becomes database designing. Learning more about database designing and this position can help you find out if this is the right career path for you. In this article, we discuss what is a database designer, explore their important responsibilities and discover what is their average salary.",
+        "Responsibility": " The database designer is responsible for defining the detailed database design, including tables, indexes, views, constraints, triggers, stored procedures, and other database-specific constructs needed to store, retrieve, and delete persistent objects. This information is maintained in the Artifact: Data Model.",
+        "requirements": "Bachelor degree to complete any reputational university.",
+        "experience": "2-3 Years in this field.",
+        "phone": " 01750-00 00 00",
+        "email": "abc@gmail.com",
+        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+    
+   
+    
+]
