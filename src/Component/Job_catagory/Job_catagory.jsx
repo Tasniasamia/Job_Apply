@@ -3,7 +3,7 @@ import React from 'react';
 const Job_catagory = (props) => {
     const propsdata=props.jobdata;
     return (
-        <div>
+        <div className='my-4 my-md-0'>
             {
                 (propsdata.catagory) && (propsdata.catagory).map(index=><div key={index}>
                     <div style={{background:"aliceblue"}} className="p-3">
