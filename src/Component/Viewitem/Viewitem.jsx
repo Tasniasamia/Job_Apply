@@ -9,13 +9,13 @@ const Viewitem = (props) => {
     const propsdata=props.indexdata;
     return (
         <div>
-        <div className='container contaner position-relative'>
+        {/* <div className='container contaner position-relative'>
            
            
      
                 <h3 className='text-center mb-3'>Job Details</h3>
                 
-                </div>
+                </div> */}
             
             <div className='container d-flex justify-content-between mt-4'>
                 <div style={{width:"70%"}}>
