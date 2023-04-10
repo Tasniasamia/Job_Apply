@@ -1,4 +1,6 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
+import { adValue } from '../../../Localstorage_function/fakedb';
 
 const Applied_jobs_data = (props) => {
     const propsdata=props.indexdata;
@@ -25,7 +27,8 @@ const Applied_jobs_data = (props) => {
 
             </div>
             <div style={{width:"20%"}}>
-<button className='btn-primary'>View Details</button>
+                <Link to="/view_detail">
+<button className='btn-primary'onClick={adValue(propsdata.id)}>View Details</button></Link>
 </div>
 </div>
             

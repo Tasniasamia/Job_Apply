@@ -5,7 +5,7 @@ const Header = () => {
     return (
       <div className='container d-flex justify-content-between align-items-center contaner'>
         <div>
-<h4>CareerHub</h4>
+<h4>Job Circular</h4>
         </div>
         <div className='navbar'>
             <Link to="/">Home</Link>
