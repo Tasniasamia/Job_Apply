@@ -81,7 +81,46 @@
         "email": "abc@gmail.com",
         "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
     }
-    
-   
+    ,
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead05",
+        
+
+        "img":"https://blogs.microsoft.com/wp-content/uploads/prod/2012/08/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen.jpg",
+
+        "profession": "Software Engineer",
+        "company_name": "Microsoft",
+        "jobtype": "Remote",
+        "jobtime": "partTime",
+        "Location": "Dhaka,Bangladesh",
+        "salary": "25k-50k",
+        "description": "Microsoft Corporation is an American multinational technology corporation headquartered in Redmond, Washington. Microsoft's best-known software products are the Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 14 in the 2022 Fortune 500 rankings of the largest United States corporations by total revenue;[2] it was the world's largest software maker by revenue as of 2022. It is considered as one of the Big Five American information technology companies, alongside Alphabet (parent company of Google), Amazon, Apple, and Meta (formerly Facebook). ",
+        "Responsibility": "As the cornerstone of our company, Microsoft Engineers always aspire to be the best in the industry. Whether coding, building, hacking, designing, or testing, they consistently put their passion and energy into delivering world-class products that will delight and empower Microsoft customers and partners.",
+        "requirements": "Bachelor degree to complete any reputational university.",
+        "experience": "2 Years in this field.",
+        "phone": " 01790-00 00 00",
+        "email": "abcd@gmail.com",
+        "address": "Dhanmondi 50,  Dhaka, Bangladesh"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead06",
+        
+
+        "img":"https://www.catholiccharitiesdc.org/wp-content/uploads/2018/10/facebook.png",
+
+        "profession": "Network Engineer",
+        "company_name": "Facebook",
+        "jobtype": "Remote",
+        "jobtime": "partTime",
+        "Location": "Dhaka,Bangladesh",
+        "salary": "50k-100k",
+        "description": "Facebook is an online social media and social networking service owned by American technology giant Meta Platforms. Created in 2004 by Mark Zuckerberg with fellow Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes, its name derives from the face book directories often given to American university students. Membership was initially limited to only Harvard students, gradually expanding to other North American universities and, since 2006, anyone over 13 years old. As of December 2022, Facebook claimed 2.96 billion monthly active users,[6] and ranked third worldwide among the most visited websites.[7] It was the most downloaded mobile app of the 2010s.[8] ",
+        "Responsibility": " As a Facebook engineer, you will improve, maintain, and develop applications and software. You will likely work in various roles across the company's suite of applications and software, including Facebook, Instagram, WhatsApp, and so on.",
+        "requirements": "Bachelor degree to complete any reputational university.",
+        "experience": "3 Years in this field.",
+        "phone": " 01850-00 00 00",
+        "email": "fbc@gmail.com",
+        "address": "Mirpur 20,  Dhaka, Bangladesh"
+    }
     
 ]

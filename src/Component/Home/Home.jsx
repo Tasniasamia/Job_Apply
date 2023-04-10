@@ -5,6 +5,7 @@ import Feature_job from '../Feature_jod/Feature_job';
 import Job_catagory from '../Job_catagory/Job_catagory';
 import './Home.css'
 const Home = () => {
+    const [values,setValue]=useState(false);
 const loaddata=useLoaderData();
 const[load,setLoad]=useState(loaddata)
 console.log(load);
@@ -47,11 +48,17 @@ console.log(load);
          <p className='text-center pb-2'>Explore thousands of job opportunities with all the information you need. Its your future</p>
          <div className='contaner2'> 
            {
-            load.map(index=><Feature_job propsdata={index} key={index.id}></Feature_job>)
+            load.slice(0, values? 6 : 4).map(index=><Feature_job propsdata={index} key={index.id}></Feature_job>)
            
            }
 
          </div>
+         </div>
+         <div className='text-center'onClick={()=>setValue(!values)}>
+            {
+                values?"":<button className='btn-success'>Show All</button>
+            }
+            
          </div>
         </div>
         </div>
