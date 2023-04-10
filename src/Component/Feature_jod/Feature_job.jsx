@@ -8,7 +8,7 @@ const Feature_job = (props) => {
     console.log(propsvalue);
     return (
         <div style={{border:"2px solid whitesmoke"}} className="p-3">
-            <img src={propsvalue.img} alt="company" />
+            <img src={propsvalue.img} style={{height:"100px"}} alt="company" />
             <h5 className='mt-2'>{propsvalue.profession}</h5>
             <p>{propsvalue.company_name}</p>
             <div>

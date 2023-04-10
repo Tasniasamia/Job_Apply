@@ -1,8 +1,8 @@
 [
     {
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead01",
-        "catagory":[{"logo":"../src/assets/Icons/accounts 1.png","title":"Acounts & Finance","chance":"300 Jobs Available"}],
-        "img":"../src/assets/All Images/google-1-1 1.png",
+        "catagory":[{"logo":"https://img.freepik.com/free-icon/calculator_318-602244.jpg?size=626&ext=jpg&uid=R81005743&ga=GA1.1.1840808139.1679778322&semt=sph","title":"Acounts & Finance","chance":"300 Jobs Available"}],
+        "img":"https://1000logos.net/wp-content/uploads/2016/11/google-logo.jpg",
         "profession": "Technical Database Engineer",
         "company_name": "Google LLC",
         "jobtype": "Remote",
@@ -20,9 +20,9 @@
     },
     {
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead02",
-        "catagory":[{"logo":"../src/assets/Icons/business 1.png","title":"Creative Design","chance":"100+ Jobs Available"}],
+        "catagory":[{"logo":"https://img.freepik.com/free-vector/think-outside-box-concept-illustration_114360-15734.jpg?w=740&t=st=1681123860~exp=1681124460~hmac=e9a350d6821f16c014db62dbbfd922d8cf87b7e1e5e3fda4b9017134027fe08b","title":"Creative Design","chance":"100+ Jobs Available"}],
 
-        "img":"../src/assets/All Images/netflix-4 1.png",
+        "img":"https://cdn.cookielaw.org/logos/dd6b162f-1a32-456a-9cfe-897231c7763c/4345ea78-053c-46d2-b11e-09adaef973dc/Netflix_Logo_PMS.png",
 
         "profession": "Senior Product Designer",
         "company_name": "Netflix",
@@ -41,9 +41,9 @@
     },
     {
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead03",
-        "catagory":[{"logo":"../src/assets/Icons/social-media 1.png","title":"Engineering Job","chance":"100+ Jobs Available"}],
+        "catagory":[{"logo":"https://img.freepik.com/free-vector/connected-world-concept-illustration_114360-3027.jpg?size=626&ext=jpg&uid=R81005743&ga=GA1.2.1840808139.1679778322&semt=sph","title":"Marketing & Sales","chance":"100+ Jobs Available"}],
 
-        "img":"../src/assets/All Images/tesla-9 1.png",
+        "img":"https://logowik.com/content/uploads/images/tesla.jpg",
 
         "profession": "Software Engineer",
         "company_name": "Tesla",
@@ -63,9 +63,9 @@
     },
     {
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead04",
-        "catagory":[{"logo":"../src/assets/Icons/chip 1.png","title":"Engineering Job","chance":"200+ Jobs Available"}],
+        "catagory":[{"logo":"https://img.freepik.com/free-vector/illustration-cogwheel_53876-6326.jpg?w=740&t=st=1681123966~exp=1681124566~hmac=ee369be17aaf1fd7ff8204ff1330a38970e10070525c4c986c125d72ab0e2dfd","title":"Engineering Job","chance":"200+ Jobs Available"}],
 
-        "img":"../src/assets/All Images/google-1-1 1.png",
+        "img":"https://1000logos.net/wp-content/uploads/2016/11/google-logo.jpg",
 
         "profession": "Technical Database Engineer",
         "company_name": "Google LLC",

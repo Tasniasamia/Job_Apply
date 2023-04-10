@@ -13,10 +13,12 @@ import Blog from './Component/Blog/Blog';
 import View_details from './Component/View_details/View_details';
 import datas from '../view';
 import applyloaded from './Component/Apply_jobs';
+import ErrorPage from './Component/Errorpage/Errorpage';
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App/>,
+    errorElement:<ErrorPage></ErrorPage>,
     children:[{
 path:"/",
 element:<Home></Home>,
