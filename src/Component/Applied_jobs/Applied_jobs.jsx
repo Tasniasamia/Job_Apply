@@ -12,7 +12,7 @@ const Applied_jobs = () => {
             <div className='container contaner2 position-relative'>
            
            <div style={{marginTop:"-83px"}} className='position-absolute end-0 top-0'><img src={pik1} alt="victor1" /></div>
-          <div className='d-flex justify-content-end align-items-center'>
+          <div className='d-flex justify-content-center align-items-center'>
            <h3>Applied_jobs</h3></div>
            <div  className='position-absolute start-0 bottom-0'><img src={pik2} alt="vector2" /></div>
            
