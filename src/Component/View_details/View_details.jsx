@@ -14,7 +14,7 @@ const View_details = () => {
            
            <div style={{marginTop:"-100px"}} className='position-absolute end-0 top-0'><img src={pik1} alt="victor1" /></div>
           <div className='d-flex justify-content-center align-items-center'>
-           <h3 className='my-3'>Job Details</h3></div>
+           <h3 className='my-3'style={{fontSize:"35px",fontWeight:"bold",color:"gray"}}>Job Details</h3></div>
            <div  className='position-absolute start-0 bottom-0'><img src={pik2} alt="vector2" /></div>
            
            </div>

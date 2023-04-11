@@ -1,7 +1,18 @@
 import React from 'react';
+import pik1 from '../../assets/All Images/Vector-1.png';
+import pik2 from '../../assets/All Images/Vector.png';
 
 const Blog = () => {
     return (
+        <div>
+            <div className=' contaner2 position-relative'>
+           
+           <div style={{marginTop:"-100px"}} className='position-absolute end-0 top-0'><img src={pik1} alt="victor1" /></div>
+          <div className='d-flex justify-content-center align-items-center'>
+           <h3 className='my-3'style={{fontSize:"35px",fontWeight:"bold",color:"gray"}}>Blogs</h3></div>
+           <div  className='position-absolute start-0 bottom-0'><img src={pik2} alt="vector2" /></div>
+           
+           </div>
         <div className='container my-5'>
            <div class="accordion" id="accordionPanelsStayOpenExample">
   <div class="accordion-item">
@@ -50,12 +61,12 @@ const Blog = () => {
     </h2>
     <div id="panelsStayOpen-collapsefour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingfour">
       <div class="accordion-body">
-      we don't recalculate by any value when we using usememo.It also helps to load application data easily.we we calculate any value.It renders this time.we have an expensive function that runs on every render. When changing the count or adding a todo, you will notice a delay in execution.
+    UseMemo is react hook that allows you to memoize expensive functions so that you can avoid calling them on every render. It accepts two arguments — a function compute that computes a result.  we don't recalculate by any value when we using usememo.It also helps to load application data easily.we we calculate any value.It renders this time.we have an expensive function that runs on every render. When changing the count or adding a todo, you will notice a delay in execution.
       </div>
     </div>
   </div>
 </div> 
-        </div>
+        </div></div>
     );
 };
 
