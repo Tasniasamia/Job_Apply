@@ -5,12 +5,12 @@ import pik2 from '../../assets/All Images/Vector.png';
 const Blog = () => {
     return (
         <div>
-            <div className=' contaner2 position-relative'>
+            <div className=' contaner2 '>
            
-           <div style={{marginTop:"-100px"}} className='position-absolute end-0 top-0'><img src={pik1} alt="victor1" /></div>
+           {/* <div style={{marginTop:"-100px"}} className='position-absolute end-0 top-0'><img src={pik1} alt="victor1" /></div> */}
           <div className='d-flex justify-content-center align-items-center'>
            <h3 className='my-3'style={{fontSize:"35px",fontWeight:"bold",color:"gray"}}>Blogs</h3></div>
-           <div  className='position-absolute start-0 bottom-0'><img src={pik2} alt="vector2" /></div>
+           {/* <div  className='position-absolute start-0 bottom-0'><img src={pik2} alt="vector2" /></div> */}
            
            </div>
         <div className='container my-5'>

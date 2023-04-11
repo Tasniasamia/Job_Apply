@@ -10,7 +10,8 @@ const Header = () => {
 <h4 style={{fontWeight:"bold"}}>Job Circular</h4>
         </div>
         <div>
-        <div className='navbar'>
+
+        <div className='navbar z-index-1'>
             
             <Activestyle to="/">Home</Activestyle>
             <Activestyle to="/Statistics">Statistics</Activestyle>
