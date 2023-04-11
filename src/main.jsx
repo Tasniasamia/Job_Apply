@@ -29,14 +29,15 @@ loader:()=>fetch('data.json'),
       
     },
     {
+      path:"/Blogs",
+      element:<Blog></Blog>,
+    },
+    {
       path:"/Apply_job",
       element:<Applied_jobs></Applied_jobs>,
       loader:applyloaded,
     },
-    {
-      path:"/Blogs",
-      element:<Blog></Blog>,
-    },
+   
     {
       path:"/view_detail",
       element:<View_details></View_details>,

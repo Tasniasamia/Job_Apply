@@ -1,5 +1,6 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
+import Activestyle from '../Activestyle/Activestyle';
 import './Header.css'
 const Header = () => {
     return (
@@ -10,11 +11,12 @@ const Header = () => {
         </div>
         <div>
         <div className='navbar'>
-            <Link to="/">Home</Link>
-            <Link to="/Statistics">Statistics</Link>
-            <Link to="/Apply_job">Applied_jobs</Link>
+            
+            <Activestyle to="/">Home</Activestyle>
+            <Activestyle to="/Statistics">Statistics</Activestyle>
+            <Activestyle to="/Apply_job">Applied_jobs</Activestyle>
 
-            <Link to="/Blogs">Blogs</Link>
+            <Activestyle to="/Blogs">Blogs</Activestyle>
 
         
 <button className='btn-primary ms-md-3 ms-0 me-5 me-md-0 mt-2 mt-md-0'>Start Applying</button>
