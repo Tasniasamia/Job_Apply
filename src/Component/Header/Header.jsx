@@ -6,7 +6,7 @@ const Header = () => {
         <div className='contaner'>
       <div className=' d-flex justify-content-between align-items-center container  flex-md-row flex-column'>
         <div>
-<h4>Job Circular</h4>
+<h4 style={{fontWeight:"bold"}}>Job Circular</h4>
         </div>
         <div>
         <div className='navbar'>
