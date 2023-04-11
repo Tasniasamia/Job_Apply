@@ -3,7 +3,8 @@ import pik from '../../assets/Icons/Group 9969.png'
 const Footer = () => {
     return (
        
-        <div style={{background:"black"}}className="">
+       <div style={{marginTop:"50px",marginBottom:"-200px"}}>
+        <div style={{background:"black"}} >
             <div className='container row row-cols-1 row-cols-md-5 g-4 text-white mx-auto py-3'style={{borderBottom:"1px solid white"}}>
                 <div className='col'>
                     <h3>Job Circular</h3>
@@ -45,8 +46,8 @@ const Footer = () => {
           <div> <p style={{fontWeight:"bold"}}>Powered by Job Circular</p></div> 
           </div>
             
-        </div>
-   
+        </div></div>
+      
     );
 };
 
