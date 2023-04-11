@@ -57,7 +57,7 @@ console.log(load);
          </div>
          <div className='text-center my-5'onClick={()=>setValue(!values)}>
             {
-                values?"":<button className='btn-success'>Show All</button>
+                values?"":<button className='btn-success'>See All Jobs</button>
             }
             
          </div>
