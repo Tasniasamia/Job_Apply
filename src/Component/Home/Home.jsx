@@ -19,7 +19,7 @@ console.log(load);
     console.log(data);
     return (
         <div >
-        <div className='container contaner'>
+        <div className=' contaner'>
             <div className='d-flex justify-content-between flex-md-row flex-column'>
                 <div className='d-flex flex-column justify-content-center'>
                     <div><h2>One Step Closer To Your <span className='text-primary'>Dream Job</span> </h2></div>

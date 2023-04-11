@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import './Header.css'
 const Header = () => {
     return (
-      <div className='container d-flex justify-content-between align-items-center contaner flex-md-row flex-column'>
+      <div className=' d-flex justify-content-between align-items-center contaner flex-md-row flex-column'>
         <div>
 <h4>Job Circular</h4>
         </div>
