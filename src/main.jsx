@@ -28,10 +28,7 @@ loader:()=>fetch('data.json'),
       element:<Statistics></Statistics>,
       
     },
-    {
-      path:"/Blogs",
-      element:<Blog></Blog>,
-    },
+    
     {
       path:"/Apply_job",
       element:<Applied_jobs></Applied_jobs>,
@@ -42,10 +39,18 @@ loader:()=>fetch('data.json'),
       path:"/view_detail",
       element:<View_details></View_details>,
       loader:datas,
-    }
+    },
+    {
+      path:"/Blogs",
+      element:<Blog></Blog>
+   
+    },
   ]
   },
 ]);
 ReactDOM.createRoot(document.getElementById('root')).render(
+   
+     <React.StrictMode>
      <RouterProvider router={router} />
+  </React.StrictMode>,
 )

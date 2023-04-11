@@ -61,12 +61,13 @@ const Blog = () => {
     </h2>
     <div id="panelsStayOpen-collapsefour" className="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingfour">
       <div className="accordion-body">
-    UseMemo is react hook that allows you to memoize expensive functions so that you can avoid calling them on every render. It accepts two arguments — a function compute that computes a result.  we don't recalculate by any value when we using usememo.It also helps to load application data easily.we we calculate any value.It renders this time.we have an expensive function that runs on every render. When changing the count or adding a todo, you will notice a delay in execution.
+      useMemo() is a React hook that allows you to optimize your component's performance by memoizing the result of an expensive computation or function, and only recomputing it when necessary. It takes a function that returns the memoized value and an array of dependencies, and returns the cached value when the dependencies haven't changed.
       </div>
     </div>
   </div>
 </div> 
         </div></div>
+       
     );
 };
 

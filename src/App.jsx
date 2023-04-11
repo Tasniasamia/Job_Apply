@@ -11,12 +11,15 @@ function App() {
 const loadingbtn=useNavigation();
   return (
     <div className="App">
+     
       <Header></Header>
       <div>
         <Outlet></Outlet>
+        
       </div>
       <Footer></Footer>
       {loadingbtn.state=="loading"?<Loadingbtn/>:""}
+
       
     </div>
   )
