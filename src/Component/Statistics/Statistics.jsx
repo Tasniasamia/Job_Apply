@@ -49,9 +49,10 @@ const Statistics = () => {
            </div>
         <div className='container d-flex justify-content-center my-5'>
             <div>
+                <h3 className='text-center my-5' style={{fontSize:"45px",fontWeight:"bold",color:"gray"}}>Assignment Marks</h3>
              <AreaChart
           width={1000}
-          height={400}
+          height={600}
           data={assignments}
           margin={{
             top: 10,
