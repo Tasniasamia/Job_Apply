@@ -18,8 +18,9 @@ console.log(load);
     },[])
     console.log(data);
     return (
-        <div >
-        <div className=' contaner'>
+        <div>
+            <div className='contaner'>
+        <div className='container '>
             <div className='d-flex justify-content-between flex-md-row flex-column'>
                 <div className='d-flex flex-column justify-content-center'>
                     <div><h2>One Step Closer To Your <span className='text-primary'>Dream Job</span> </h2></div>
@@ -32,7 +33,7 @@ console.log(load);
                 </div>
             </div>
             
-        </div>
+        </div></div>
         <div className='container'>
             <div  style={{paddingTop:"200px"}}>
          <h3 className='text-center mt-5'>Job Catagory List</h3>

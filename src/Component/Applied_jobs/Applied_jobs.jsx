@@ -47,14 +47,14 @@ function alldata(){
            
            </div>
          <div className='container my-4 d-flex justify-content-end'>
-           <div class="btn-group">
+           <div className="btn-group">
   
-    <div class="btn-group">
-      <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown">View</button>
-      <ul class="dropdown-menu">
-        <li><a class="dropdown-item" href="#"onClick={remotedata}>Remote</a></li>
-        <li><a class="dropdown-item" href="#"onClick={onsitedata}>Onsite</a></li>
-        <li><a class="dropdown-item" href="#"onClick={alldata}>All</a></li>
+    <div className="btn-group">
+      <button type="button" className="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown">View</button>
+      <ul className="dropdown-menu">
+        <li><a className="dropdown-item" href="#"onClick={remotedata}>Remote</a></li>
+        <li><a className="dropdown-item" href="#"onClick={onsitedata}>Onsite</a></li>
+        <li><a className="dropdown-item" href="#"onClick={alldata}>All</a></li>
       </ul>
     </div>
   </div>
